@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>copyright_lempinenpartners_oy_finland</sys_created_by>
+        <sys_created_on>2018-05-07 10:45:04</sys_created_on>
+        <sys_id>18359fa3dbbd1300a5a0fabdbf961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_205912_iplookup_ipaddressinfo.x_205912_iplookup.ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPLookup" source="x_205912_iplookup">618587efdbf91300a5a0fabdbf961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">618587efdbf91300a5a0fabdbf961907</sys_scope>
+        <sys_security_acl display_value="x_205912_iplookup_ipaddressinfo">98359fa3dbbd1300a5a0fabdbf961971</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_18359fa3dbbd1300a5a0fabdbf961975</sys_update_name>
+        <sys_updated_by>copyright_lempinenpartners_oy_finland</sys_updated_by>
+        <sys_updated_on>2018-05-07 10:45:04</sys_updated_on>
+        <sys_user_role display_value="x_205912_iplookup.ipaddressinfo_user" name="x_205912_iplookup.ipaddressinfo_user">443513efdb7d1300a5a0fabdbf9619f9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
